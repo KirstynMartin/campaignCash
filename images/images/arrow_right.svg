@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="237px" viewBox="0 0 16 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="case_study_page" transform="translate(-1402.000000, -262.000000)" fill="#FFFFFF">
+            <g id="Group-10" transform="translate(1402.000000, 262.000000)">
+                <path d="M7.5,0.5 L7.5,97.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M7.5,97.5 L10.5,86.7 L4.5,86.7 L7.5,97.5 Z" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="Campaign-Cash" transform="translate(9.000000, 180.500000) rotate(90.000000) translate(-9.000000, -180.500000) " font-family="MrsEavesXLSerifNarOT-Reg, Mrs Eaves XL Serif Nar OT" font-size="18" font-weight="normal" letter-spacing="-0.0439999923">
+                    <tspan x="-47.135" y="185.5">Campaign Cash</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="198px" viewBox="0 0 12 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-17" transform="translate(-25.000000, -482.000000)">
+            <g id="Group-12" transform="translate(25.000000, 482.000000)">
+                <text id="campaign-cash" transform="translate(7.000000, 102.000000) rotate(90.000000) translate(-7.000000, -102.000000) " font-family="MrsEavesXLSerifNarOT-Reg, Mrs Eaves XL Serif Nar OT" font-size="14" font-weight="normal" letter-spacing="-0.0342222191" fill="#091A4B">
+                    <tspan x="-34" y="106">campaign cash</tspan>
+                </text>
+                <path d="M6,151 L6,197.5" id="Path-11" stroke="#091A4B"></path>
+                <path d="M6,6 L6,52.5" id="Path-11-Copy" stroke="#091A4B"></path>
+                <polygon id="Triangle" fill="#091A4B" points="6 0 8 6 4 6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
