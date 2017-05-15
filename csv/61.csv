@@ -1,0 +1,10 @@
+id,name,money,position,image_path
+The rest_support,The rest of support donors,94838,rest,images/support.svg
+Donor 1,Aids Healthcare Foundation,14405716,top,images/support.svg
+Donor 2,California Nurses Association PAC,50000,top,images/support.svg
+The rest_opposition,The rest of opposition donors,54438199,rest,images/opposition.svg
+Donor 3,Merck & Co. Inc.,7212000,top,images/opposition.svg
+Donor 4,"Pfizer, Inc.",7212000,top,images/opposition.svg
+Donor 5,Johnson & Johnson,7212000,top,images/opposition.svg
+Donor 6,Amgen Inc.,5617000,top,images/opposition.svg
+Donor 7,AbbVie Inc.,5203000,top,images/opposition.svg

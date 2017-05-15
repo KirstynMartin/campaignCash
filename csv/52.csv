@@ -1,0 +1,10 @@
+id,name,money,position,image_path
+The rest_support,The rest of support donors,29461039,rest,images/support.svg
+Donor 1,California Health Foundation and Trust,11501975,top,images/support.svg
+Donor 2,Dignity Health,8478390,top,images/support.svg
+Donor3,Sutter Health,4160670,top,images/support.svg
+Donor 4,Childrens Hospital Los Angeles,3418305,top,images/support.svg
+Donor 5,Adventist Health,3020143,top,images/support.svg
+The rest_opposition,,0,rest,images/opposition.svg
+Donor 6,United Healthcare Workers West,6737866,top,images/opposition.svg
+Donor 7,United Healthcare Workers West Political Issues Committee,4825000,top,images/opposition.svg
